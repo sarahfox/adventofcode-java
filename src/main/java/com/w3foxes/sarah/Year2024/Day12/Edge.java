@@ -1,5 +1,7 @@
 package com.w3foxes.sarah.Year2024.Day12;
 
+import com.w3foxes.sarah.util.Point;
+
 public class Edge {
     Point p;
     Direction d;

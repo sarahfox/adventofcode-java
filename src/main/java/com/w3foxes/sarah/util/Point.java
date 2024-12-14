@@ -1,4 +1,4 @@
-package com.w3foxes.sarah.Year2024.Day12;
+package com.w3foxes.sarah.util;
 
 public record Point(int row, int column) {
     

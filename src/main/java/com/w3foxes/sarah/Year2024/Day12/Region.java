@@ -7,6 +7,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import com.w3foxes.sarah.util.Point;
+
 public class Region {
     char id;
     Set<Point> points;

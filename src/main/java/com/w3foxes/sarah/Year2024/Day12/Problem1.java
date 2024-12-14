@@ -9,6 +9,7 @@ import java.util.Map;
 import java.util.Stack;
 
 import com.w3foxes.sarah.util.FileReaderUtil;
+import com.w3foxes.sarah.util.Point;
 
 public class Problem1 {
 
